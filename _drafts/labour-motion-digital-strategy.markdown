@@ -28,3 +28,6 @@ Support and encourage businesses that are open and transparent about their algor
 
 No military products to be developed in Greater Manchester
 
+Anyone using open data from public services should use open source technologies
+
+Education on tech should be a right - not just to get a job, or because services are digital. No one should be forced to learn tech, and people who don't want to use tech should not be discriminated against. People of any age should have opportunities to learn digital skills but no simply as a pathway to getting a job, but because they are interested in the subject for its own sake. 
