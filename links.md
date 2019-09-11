@@ -32,5 +32,11 @@ ArsTechnica
 
 ### Philosophy
 
+
 ### Opinion / Analysis / Politics
 
+### Socialism
+
+### Unsorted
+https://strikemag.bigcartel.com/
+>>>>>>> c8d830798d6ebce7209951917d3ce1d05efd564f
