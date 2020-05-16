@@ -25,6 +25,10 @@ goodreads_username: alexeel04
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
 theme: minima
 plugins:
   - jekyll-feed
