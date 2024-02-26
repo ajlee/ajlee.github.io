@@ -2,8 +2,8 @@
  * Site header
  */
 .site-header {
+    padding-top: 2em;
     background: #faf9f5;
-    border-top: 5px solid $title-color;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
     text-align: center;
@@ -13,9 +13,10 @@
 }
 
 .site-title {
-    font-family: "Playfair Display";
-    font-size: 32px;
-    font-weight: 300;
+    padding-top:2em;
+    font-family: "Bitter", "Playfair Display";
+    font-size: 48px;
+    font-weight: 700;
     line-height: 56px;
     margin-bottom: 0;
 

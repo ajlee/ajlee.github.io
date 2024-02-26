@@ -2,7 +2,7 @@
 layout: post
 title:  "First six weeks"
 date:   2019-11-17 20:00:54 +0000
-categories: 
+categories: academic
 ---
 
 Eastbourne is supposed to be on the "sunshine coast", one of the sunniest places in Britain. Haven't seen much of it since I've been here. Rain and more rain with one or two days of sun. But on the positive side, I'm about 2 minutes walk from the sea, and I get to do a morning run along it most days. The sea looks different every day, and I can see the white chalk cliffs of beachy head looming in the distance. The smooth rolling hills of the south downs go past the window of the train every day on the way to university, a place of rare biodiversity, much of which has unfortunately been lost, but there are still a few places where it clings on. I have an excellent local nature book by anti-capitalist nature-lover Dave Bangs, which will be of great use in exploring the local area. In my flat, there are still a few boxes about, but we now have most of the furniture that we need in. We have also won the battle against mould for now, although we must be vigilant against further attacks on our bedside tables.

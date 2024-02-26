@@ -4,6 +4,16 @@ title: Music
 permalink: /music/
 ---
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/555441771&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<p>I have been writing songs for a few years. More recently it has been mostly what has been described as being acoustic-comedy-punk which is fine with me.</p>
+
+<ul>
+  {% for post in site.categories.music %}
+    {% if post.url %}
+        <li><h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+          <p>{{ post.content }}</p>
+        </li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
 [jekyll-organization]: https://github.com/jekyll
