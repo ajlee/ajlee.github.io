@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: "My One Page Website"
 ---
 
-## You're ready to go!
+# This is my one page site!
 
-Start developing your Jekyll website.
+It's just so groovy
