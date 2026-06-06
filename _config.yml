@@ -1,3 +1,13 @@
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "" # the name of your site, e.g. ACME Corp.
+collections:
+  pages:
+    output: true
+    permalink: /:name          # results in /test/ (trailing slash) or use /:name for /test
+    source: _pages              # where your markdown files live
+defaults:
+  - scope:
+      path: "_pages"
+    values:
+      layout: default   # your existing layout file
