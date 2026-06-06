@@ -16,6 +16,10 @@ export default defineConfig({
   branch: "main",
   clientId: null,              // local development – no cloud
   token: null,                 // local development – no cloud
+  
+  server: {
+    staticPaths: ["./uploads"],   // enable viewing of images in backend localhost
+  },
 
   build: {
     outputFolder: "admin",
