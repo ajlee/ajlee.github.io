@@ -10,5 +10,14 @@ nav:
     link: /about
   - title: Contact
     link: /contact
-contactLinks: []
+contactLinks:
+  - title: Contact
+    link: /contact
+    icon: 'tabler:icon-email'
+  - title: Mastodon
+    link: 'https://social.science/'
+    icon: brand-x
+  - title: Github
+    link: 'https://github.com'
+    icon: 'tabler:brand-github'
 footerStarfield: true

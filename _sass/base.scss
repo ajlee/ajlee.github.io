@@ -28,6 +28,17 @@ $red-100: #f8dcd6;
 $red-50: #faeeeb;
 $red: $red-550;
 
+$title-align: center;
+$title-color: $red-500;
+$title-background: #fff;
+
+$nav-align: center;
+$nav-color: $red-500;
+$nav-background: #fff;
+
+$footer-align: center;
+$footer-color: #fff;
+$footer-background: $red-500;
 
 /// Colours
 $backgroundColor: #fff;
@@ -47,14 +58,44 @@ body {
  }
 
  .title-container {
+	text-align: $title-align;
+	color: $title-color;
+}
+.primary-nav-outer-container {
+	margin-top: 1rem;
+	background: $red-500;
+	border-top: 3px solid $red-500;
 	border-bottom: 3px solid $red-500;
-	text-align: center;
-	color: $red-500;
+}
+nav.primary {
+	display: flex;
+	justify-content: center;
+	gap: 1rem;
+}
+nav.primary ul {
+	list-style: none;
+	margin: auto;
+	display: block;
+}
+nav.primary a {
+	display: inline-block;
+	color: #fff;
 }
 
 .site-title {
 	font-weight: bold;
+
 }
 .site-title-break {
 	padding:1em;
+}
+footer {
+	display: flex;
+	justify-content: center;
+	gap: 1rem;
+	margin-top: 1rem;
+}
+footer, footer a {
+	background: $footer-background;
+	color: $footer-color;
 }

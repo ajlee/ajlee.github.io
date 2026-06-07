@@ -1,7 +1,11 @@
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "Alex Lee Websites" # the name of your site, e.g. ACME Corp.
-subtitle: "Cheap, Simple Websites"
+header_title: "Alex Lee Websites" # the name of your site, e.g. ACME Corp.
+header_subtitle: "Cheap, Simple Websites"
+seo_description: "This is my meta seo_description"
+colour_scheme: ""
+font_scheme: ""
+one_page_site: "" # disables nav
 sass:
   style: compressed        # optional, but common
   quiet_deps: true         # suppresses Pico.css dependency warnings
