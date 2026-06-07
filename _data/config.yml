@@ -11,7 +11,7 @@ nav:
   - title: Contact
     link: /contact
 contactLinks:
-  - title: Contact
+  - title: Email
     link: /contact
     icon: 'tabler:icon-email'
   - title: Mastodon

@@ -8,6 +8,7 @@ const PageCollection = {
   format: "md",
   fields: [
     { type: "string", name: "title", label: "Title", isTitle: true, required: true },
+    { type: "string", name: "url", label: "Url", required: true, label: "Url for the page" },
     { type: "rich-text", name: "body", label: "Body", isBody: true },
   ],
 };

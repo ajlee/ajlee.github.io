@@ -40,6 +40,9 @@ $footer-align: center;
 $footer-color: #fff;
 $footer-background: $red-500;
 
+$links-colour: $red-500;
+$button-colour: $red-500;
+
 /// Colours
 $backgroundColor: #fff;
 $bodyColor: $red-50;
@@ -98,4 +101,10 @@ footer {
 footer, footer a {
 	background: $footer-background;
 	color: $footer-color;
+}
+a {
+	color: $links-colour;
+}
+button, [type=submit], [type=reset], [type=button], [type=file]::file-selector-button, [role=button] {
+	background-color: $button-colour;
 }
