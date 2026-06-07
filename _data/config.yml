@@ -1,0 +1,14 @@
+seo:
+  title: Alex Lee Websites
+  description: 'Cheap, simple websites'
+  siteOwner: Alex Lee
+  logo: ''
+nav:
+  - title: Home
+    link: /
+  - title: About
+    link: /about
+  - title: Contact
+    link: /contact
+contactLinks: []
+footerStarfield: true
