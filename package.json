@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@picocss/pico": "^2.1.1",
+    "@picocss/pico": "~1.5.1",
     "tinacms": "^3.9.1"
   },
   "devDependencies": {

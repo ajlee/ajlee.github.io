@@ -127,8 +127,8 @@ export const GlobalConfigCollection: Collection = {
 
 export default defineConfig({
   branch: "main",
-  clientId: null,              // local development – no cloud
-  token: null,                 // local development – no cloud
+  clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID, // reads from .env or GitHub secrets
+  token: process.env.TINA_TOKEN, 
   
   server: {
     staticPaths: ["./uploads"],   // enable viewing of images in backend localhost

@@ -7,6 +7,7 @@ colour_scheme: ""
 font_scheme: ""
 one_page_site: "" # disables nav
 sass:
+  sass_dir: _sass
   style: compressed        # optional, but common
   quiet_deps: true         # suppresses Pico.css dependency warnings
 collections:
