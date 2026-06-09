@@ -24,7 +24,7 @@ export const GlobalConfigCollection: Collection = {
   fields: [
     {
       name: "seo",
-      label: "General site config",
+      label: "General site configuration",
       type: "object",
       fields: [
         {

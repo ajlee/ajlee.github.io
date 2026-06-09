@@ -5,7 +5,7 @@ title: Websites for Individuals and Small Businesses
 
 If you are an individual, a small business owner, and you need website, the chances are you want a basic, simple website.
 
-Maybe:-
+Maybe:
 
 * You might need one to boost your profile. Perhaps you are an academic, and you are constantly told you have to “sell yourself” to get a good job. Hence, you need a website.
 * You might be a freelancer. You might have never updated your website in ten years, but you have to have a website, because if you don't have one, people might think you have no credentials.
