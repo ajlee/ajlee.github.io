@@ -1,8 +1,8 @@
-seo:
-  title: Alex Lee Websites
-  description: 'Cheap, simple websites'
-  siteOwner: Alex Lee
-  logo: ''
+seo_info:
+  seo_title: Alex Lee Websites
+  seo_description: 'Cheap, simple websites'
+  seo_siteowner: Alex Lee
+  seo_logo: ''
 nav:
   - title: Home
     link: /
