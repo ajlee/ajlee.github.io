@@ -33,6 +33,26 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+        # Setup Node.js for TinaCMS
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      # Install Node dependencies (assumes package.json exists)
+      - name: Install dependencies
+        run: npm ci
+        # or `npm install` if no package-lock.json
+
+      # Build TinaCMS admin
+      - name: Build TinaCMS
+        env:
+          NEXT_PUBLIC_TINA_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
+          TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
+        run: npx tinacms build
+
       - name: Setup Ruby
         # https://github.com/ruby/setup-ruby/releases/tag/v1.207.0
         uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4
