@@ -46,6 +46,22 @@ jobs:
         run: npm ci
         # or `npm install` if no package-lock.json
 
+      - name: Debug secrets (masked)
+        run: |
+          if [[ -n "$NEXT_PUBLIC_TINA_CLIENT_ID" ]]; then
+            echo "NEXT_PUBLIC_TINA_CLIENT_ID is set (length: ${#NEXT_PUBLIC_TINA_CLIENT_ID})"
+          else
+            echo "NEXT_PUBLIC_TINA_CLIENT_ID is NOT set"
+          fi
+          if [[ -n "$TINA_TOKEN" ]]; then
+            echo "TINA_TOKEN is set (length: ${#TINA_TOKEN})"
+          else
+            echo "TINA_TOKEN is NOT set"
+          fi
+        env:
+          NEXT_PUBLIC_TINA_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
+          TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
+
       # Build TinaCMS admin
       - name: Build TinaCMS
         env:
