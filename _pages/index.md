@@ -20,13 +20,24 @@ This offer is different. This is about stripping everything back.
 * Editable: You can change things easily.
 * No Ongoing cost: Apart from a domain name (usually about £10-£20 a year), you are not locked into any ongoing costs.
 
-## Offers
+## Prices
 
 There are three tiers available. Small, Smaller, and Smallest.
 
 * Placeholder for Small (£600)
 * Placeholder for Smaller (£400)
 * Placeholder for Smallest (£200)
+
+| Tier                                                    | Smallest   | Smaller    | Small      |
+| ------------------------------------------------------- | ---------- | ---------- | ---------- |
+| Page Editor                                             | Yes        | Yes        | Yes        |
+| Basic Image &#xA;Uploader                               | Yes        | Yes        | Yes        |
+| Pages Included&#xA;(you can add more yourself)          | 3          | 5          | 8          |
+| Editable site settings and menu                         | Yes        | Yes        | Yes        |
+| Header Logo Uploader&#xA;(you have to provide the file) | Yes        | Yes        | Yes        |
+| Simple SEO                                              | Site-based | Page-based | Page-based |
+| Colour Palettes                                         | 3          | 3          | 5          |
+| Font Choices                                            | 3          | 3          | 5          |
 
 ## What is Included
 
