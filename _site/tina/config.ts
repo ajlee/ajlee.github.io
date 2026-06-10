@@ -23,24 +23,24 @@ export const GlobalConfigCollection: Collection = {
   },
   fields: [
     {
-      name: "seo",
-      label: "General site config",
+      name: "seo_info",
+      label: "General site configuration  ",
       type: "object",
       fields: [
         {
-          name: "title",
+          name: "seo_title",
           label: "Site title for SEO",
           type: "string",
           required: true,
         },
         {
-          name: "description",
+          name: "seo_description",
           label: "Site description for SEO",
           type: "string",
           required: true,
         },
         {
-          name: "siteOwner",
+          name: "seo_siteowner",
           label: "Your Name, Company Name (Used in the footer",
           required: true,
           type: "string",
@@ -49,11 +49,10 @@ export const GlobalConfigCollection: Collection = {
           },
         },
         {
-          name: 'logo',
+          name: 'seo_logo',
           label: 'Logo',
           type: 'image',
         }
-        //Add more site settings here...
       ],
     },
     {

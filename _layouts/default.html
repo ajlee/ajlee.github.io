@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="description" content="{{ site.seo_description }}">
     <meta name="keywords" content="">
-    <title>!!!!!!!!!!!! {{ page.title }} - {{ seo_info.seo_title }} !!!!!!!!!!!!!!!!!!!W</title>
+    <title>{{ site.data.config.seo_info.title }} - {{ page.title }}</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2.1.1/css/pico.min.css">
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
   </head>
@@ -39,17 +39,29 @@
   		<head>
   			<h1>{{ page.title }}</h1>
   		</head>
-  		<content>
+  		<content class="wysiwyg-content">
   			{{ content }}
   		</content>
 	</main>
   </body>
   <footer>
-  	<div class="footer-container">
+  	<div class="footer-container container">
+  		<div class="secondary-nav-outer-container">
+		  	<div class="container secondary-nav-container">
+				<nav class="secondary">
+			  		<ul>
+					  {% for item in site.data.config.nav %}
+					    <li><a href="{{ item.link }}">{{ item.title }}</a></li>
+					  {% endfor %}
+					</ul>
+				</nav>
+			</div>
+		</div>
 	  	<nav class="socials">
 	  		<ul>
 			  {% for item in site.data.config.contactLinks %}
-			    <li><span class="{{ item.icon }}"></span><a href="{{ item.link }}">{{ item.title }}</a></li>
+			    <li><a href="{{ item.link }}"><span class="icon {{ item.icon }}"></span></a></li>
+			    {% comment %} TODO: add link tooltip with item.title {% endcomment %}
 			  {% endfor %}
 			</ul>
 		</nav>

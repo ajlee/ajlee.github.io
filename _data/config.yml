@@ -1,5 +1,5 @@
 seo_info:
-  seo_title: Alex Lee Websites
+  title: Alex Lee Websites
   seo_description: 'Cheap, simple websites'
   seo_siteowner: Alex Lee
   seo_logo: ''
@@ -13,11 +13,11 @@ nav:
 contactLinks:
   - title: Email
     link: /contact
-    icon: 'tabler:icon-email'
+    icon: 'icon-email'
   - title: Mastodon
-    link: 'https://social.science/'
-    icon: brand-x
+    link: 'https://science.social/alexlee'
+    icon: brand-mastodon
   - title: Github
-    link: 'https://github.com'
-    icon: 'tabler:brand-github'
+    link: 'https://github.com/ajlee'
+    icon: 'brand-github'
 footerStarfield: true
