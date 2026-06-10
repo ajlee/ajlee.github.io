@@ -20,7 +20,7 @@ Maybe you use Wix and have to pay a hefty subscription.
 
 * Cheap: Websites that are basically as cheap as possible while still providing a professional look and feel.
 * Editable: You can change things easily.
-* Small Ongoing cost: Apart from a domain name (usually about £10-£20 a year), you are not locked into many ongoing costs\*.
+* Small Ongoing cost: Apart from a domain name (usually about £10-£20 a year), ongoing costs will be very low\*.
 
 If you are a small business owner, you might need a simple website just to provide some basic information about your services, and to provide contact details and prices.
 
