@@ -38,6 +38,7 @@ There are three tiers available. Small, Smaller, and Smallest.
 | Simple SEO                                              | Site-based | Page-based | Page-based |
 | Colour Palettes                                         | 3          | 3          | 5          |
 | Font Choices                                            | 3          | 3          | 5          |
+| Contact Page                                            | Yes        | Yes        | Yes        |
 | Blog                                                    | No         | No         | Yes        |
 | Page Layouts                                            | 1          | 3          | 3          |
 | Free Hosting with Github                                | Yes        | Yes        | Yes        |
