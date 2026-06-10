@@ -1,4 +1,5 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+repository: ajlee/ajlee.github.io
+url: "ajlee.github.io" # the base hostname & protocol for your site, e.g. http://example.acom
 baseurl: "" # the subpath of your site, e.g. /blog
 header_title: "Alex Lee Websites" # the name of your site, e.g. ACME Corp.
 header_subtitle: "Cheap, Simple Websites"

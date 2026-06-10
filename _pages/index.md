@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Websites for Individuals and Small Businesses
+url: index
 ---
 
 If you are an individual, a small business owner, and you need website, the chances are you want a basic, simple website.
 
-Maybe:
+Maybe:-
 
 * You might need one to boost your profile. Perhaps you are an academic, and you are constantly told you have to “sell yourself” to get a good job. Hence, you need a website.
 * You might be a freelancer. You might have never updated your website in ten years, but you have to have a website, because if you don't have one, people might think you have no credentials.
@@ -54,19 +55,17 @@ In order to keep sites cheap, the following are not included. ALL custom require
 * Free fixes if your site breaks
 * Free training
 
-## Technologies Used
+## Technologies Used -
 
 These websites rely on specific technologies:
 
 * Jekyll as a website builder
-* Pico.css for styling 
+* Pico.css for styling
 * TinaCMS for allowing you to edit the site (free tier)
 * GitHub Pages for hosting (free for basic, static sites)
 
-This service relies on TinaCMS and GitHub to enable you to edit your site and publish it. If either of these services fail to be supported in future your site may experience problems. 
+This service relies on TinaCMS and GitHub to enable you to edit your site and publish it. If either of these services fail to be supported in future your site may experience problems.
 
 Alternatively, TinaCMS and GitHub Pages could change their pricing model in future. However, given that they are aiming to provide very basic services, if they start charging, they are still likely to be very cheap.
 
-Reliance on any technology, including WordPress, Wix, Shopify etc all are dependent on those services continuing to work and continuing to provide at the same cost. So in that sense, this is no different.![](/uploads/straight-road.jpg)
-
-*
+Reliance on any technology, including WordPress, Wix, Shopify etc all are dependent on those services continuing to work and continuing to provide at the same cost. So in that sense, this is no different.

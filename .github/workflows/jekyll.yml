@@ -70,7 +70,7 @@ jobs:
         run: |
           export NEXT_PUBLIC_TINA_CLIENT_ID="${{ secrets.TINA_PUBLIC_CLIENT_ID }}"
           export TINA_TOKEN="${{ secrets.TINA_TOKEN }}"
-          npx tinacms build
+          npx tinacms build --skip-cloud-checks
 
       - name: Setup Ruby
         # https://github.com/ruby/setup-ruby/releases/tag/v1.207.0
