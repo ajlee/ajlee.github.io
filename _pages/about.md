@@ -1,5 +1,6 @@
 ---
 title: About Alex Lee
+url: about
 ---
 
 Hi! I am Alex Lee.
