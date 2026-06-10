@@ -109,3 +109,14 @@ a {
 button, [type=submit], [type=reset], [type=button], [type=file]::file-selector-button, [role=button] {
 	background-color: $button-colour;
 }
+
+/**
+* IMAGES
+*/
+.wysiwyg-content {
+	img {
+		float: left;
+		margin: 1rem;
+		box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+	}
+}
