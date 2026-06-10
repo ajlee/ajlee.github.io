@@ -4,14 +4,13 @@ title: Websites for Individuals and Small Businesses
 url: index
 ---
 
-## Cheap Websites that Work
+Do you just need a cheap, professional website?
 
-* If you are a small business owner, you might need a simple website just to provide some basic information about your services, and to provide contact details and prices.
-* If you are an academic or PhD student, you might want a simple website to provide an overview of your academic profile with details about your publications.
-* You might be a freelancer. You might have never updated your website in ten years, but you have to have a website, because if you don't have one, people might think you have no credentials.
-* You might run a small voluntary group or campaign. Maybe you just need a basic website for directing people to.
+Do the current options for websites seem too complicated?
 
-**Current offers available for websites are overkill. **
+Are you fed up with ongoing spending time and money doing maintenance, updates and security fixes?
+
+**For many people, the current offers available for websites are overkill. **
 
 You might use WordPress and you might end up paying a lot of money just to keep your site updated and secure. 
 
@@ -21,7 +20,17 @@ Maybe you use Wix and have to pay a hefty subscription.
 
 * Cheap: Websites that are basically as cheap as possible while still providing a professional look and feel.
 * Editable: You can change things easily.
-* No Ongoing cost: Apart from a domain name (usually about £10-£20 a year), you are not locked into any ongoing costs.
+* Small Ongoing cost: Apart from a domain name (usually about £10-£20 a year), you are not locked into many ongoing costs\*.
+
+If you are a small business owner, you might need a simple website just to provide some basic information about your services, and to provide contact details and prices.
+
+If you are an academic or PhD student, you might want a simple website to provide an overview of your academic profile with details about your publications.
+
+You might be a freelancer. You might have never updated your website in ten years, but you have to have a website, because if you don't have one, people might think you have no credentials.
+
+You might run a small voluntary group or campaign. Maybe you just need a basic website for directing people to.
+
+**If this sounds like you, I aim to provide the solution to help.**
 
 ## Prices
 
