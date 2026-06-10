@@ -38,6 +38,12 @@ There are three tiers available. Small, Smaller, and Smallest.
 | Simple SEO                                              | Site-based | Page-based | Page-based |
 | Colour Palettes                                         | 3          | 3          | 5          |
 | Font Choices                                            | 3          | 3          | 5          |
+| Blog                                                    | No         | No         | Yes        |
+| Page Layouts                                            | 1          | 3          | 3          |
+| Free Hosting with Github                                | Yes        | Yes        | Yes        |
+| Help with Site Setup                                    | Yes        | Yes        | Yes        |
+| Post-Completion Support                                 | 30 minutes | 60 mins    | 90 mins    |
+| User Guides                                             | Yes        | Yes        | Yes        |
 
 ## What is Included
 
