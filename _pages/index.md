@@ -10,7 +10,7 @@ Do the current options for websites seem too complicated?
 
 Are you fed up with ongoing spending time and money doing maintenance, updates and security fixes?
 
-**For many people, the current offers available for websites are overkill. **
+For many people, the current offers available for websites are overkill.
 
 You might use WordPress and you might end up paying a lot of money just to keep your site updated and secure.
 
@@ -55,6 +55,7 @@ There are three tiers available. Small, Smaller, and Smallest.
 | Page Layouts                                                     | 1          | 3          | 3          |
 | YouTube / Vimeo / Soundcloud Embedding                           | Yes        | Yes        | Yes        |
 | Free Hosting with Github                                         | Yes        | Yes        | Yes        |
+| Website Analytics                                                | No         | No         | No         |
 | Help with Site Setup                                             | Yes        | Yes        | Yes        |
 | Post-Completion Support                                          | 30 minutes | 90 mins    | 90 mins    |
 | User Guides                                                      | Yes        | Yes        | Yes        |
