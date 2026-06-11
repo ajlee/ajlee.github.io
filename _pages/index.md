@@ -12,7 +12,7 @@ Are you fed up with ongoing spending time and money doing maintenance, updates a
 
 **For many people, the current offers available for websites are overkill. **
 
-You might use WordPress and you might end up paying a lot of money just to keep your site updated and secure. 
+You might use WordPress and you might end up paying a lot of money just to keep your site updated and secure.
 
 Maybe you use Wix and have to pay a hefty subscription.
 
@@ -40,24 +40,24 @@ There are three tiers available. Small, Smaller, and Smallest.
 * Placeholder for Smaller (£400)
 * Placeholder for Smallest (£200)
 
-| Tier                                                    | Smallest   | Smaller    | Small      |
-| ------------------------------------------------------- | ---------- | ---------- | ---------- |
-| Page Editor                                             | Yes        | Yes        | Yes        |
-| Basic Image &#xA;Uploader                               | Yes        | Yes        | Yes        |
-| Pages Included&#xA;(you can add more yourself)          | 3          | 5          | 8          |
-| Editable site settings and menu                         | Yes        | Yes        | Yes        |
-| Header Logo Uploader&#xA;(you have to provide the file) | Yes        | Yes        | Yes        |
-| Simple SEO                                              | Site-based | Page-based | Page-based |
-| Colour Palettes                                         | 3          | 3          | 5          |
-| Font Choices                                            | 3          | 3          | 5          |
-| Contact Page                                            | Yes        | Yes        | Yes        |
-| Blog                                                    | No         | No         | Yes        |
-| Page Layouts                                            | 1          | 3          | 3          |
-| YouTube / Vimeo / Soundcloud Embedding                  | Yes        | Yes        | Yes        |
-| Free Hosting with Github                                | Yes        | Yes        | Yes        |
-| Help with Site Setup                                    | Yes        | Yes        | Yes        |
-| Post-Completion Support                                 | 30 minutes | 90 mins    | 90 mins    |
-| User Guides                                             | Yes        | Yes        | Yes        |
+| Tier                                                             | Smallest   | Smaller    | Small      |
+| ---------------------------------------------------------------- | ---------- | ---------- | ---------- |
+| Page Editor                                                      | Yes        | Yes        | Yes        |
+| Basic Image &#xA;Uploader                                        | Yes        | Yes        | Yes        |
+| Pages Included&#xA;(you can add more yourself)                   | 3          | 5          | 8          |
+| Editable site settings and menu                                  | Yes        | Yes        | Yes        |
+| Header Logo Uploader and Icon&#xA;(you have to provide the file) | Yes        | Yes        | Yes        |
+| Simple SEO                                                       | Site-based | Page-based | Page-based |
+| Colour Palettes                                                  | 3          | 3          | 5          |
+| Font Choices                                                     | 3          | 3          | 5          |
+| Contact Page                                                     | Yes        | Yes        | Yes        |
+| Blog                                                             | No         | No         | Yes        |
+| Page Layouts                                                     | 1          | 3          | 3          |
+| YouTube / Vimeo / Soundcloud Embedding                           | Yes        | Yes        | Yes        |
+| Free Hosting with Github                                         | Yes        | Yes        | Yes        |
+| Help with Site Setup                                             | Yes        | Yes        | Yes        |
+| Post-Completion Support                                          | 30 minutes | 90 mins    | 90 mins    |
+| User Guides                                                      | Yes        | Yes        | Yes        |
 
 ## What is not Included
 
@@ -81,4 +81,4 @@ These websites rely on specific technologies to keep costs down.
 * TinaCMS for allowing you to edit the site (free tier)
 * GitHub Pages for hosting (free for basic, static sites)
 
-This service relies on TinaCMS and GitHub to enable you to edit your site and publish it. 
+This service relies on TinaCMS and GitHub to enable you to edit your site and publish it.
