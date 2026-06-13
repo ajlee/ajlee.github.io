@@ -1,52 +1,41 @@
 /***
-* IMPORT PICO
-* Can use https://picocss.com/docs/sass to reduce pico size later
+* TODO: IMPORT PICO FOR CUSTOMISATION
 */
 
-//@import "../node_modules/@picocss/pico/scss/pico";
-//@use "../node_modules/@picocss/pico/scss/pico/colors" as colors;
-
-
-// Red
-$red-950: #1c0d06;
-$red-900: #30130a;
-$red-850: #45150c;
-$red-800: #5c160d;
-$red-750: #72170f;
-$red-700: #861d13;
-$red-650: #9b2318;
-$red-600: #af291d;
-$red-550: #c52f21;
-$red-500: #d93526;
-$red-450: #ee402e;
-$red-400: #f06048;
-$red-350: #f17961;
-$red-300: #f38f79;
-$red-250: #f5a390;
-$red-200: #f5b7a8;
-$red-150: #f6cabf;
-$red-100: #f8dcd6;
-$red-50: #faeeeb;
-$red: $red-550;
+/***
+* Remove larger breakpoints
+*/
+@media (min-width: 1536px) {
+    .container {
+        max-width: 1200px;
+    }
+}
 
 $title-align: center;
-$title-color: $red-500;
+
+// Red
+$red-550: #c52f21;
+$red: $red-550;
+$blue: #009DE3;
+
+$title-align: center;
+$title-color: $blue;
 $title-background: #fff;
 
 $nav-align: center;
-$nav-color: $red-500;
+$nav-color: $blue;
 $nav-background: #fff;
 
 $footer-align: center;
 $footer-color: #fff;
-$footer-background: $red-500;
+$footer-background: $blue;
 
-$links-colour: $red-500;
-$button-colour: $red-500;
+$links-colour: $blue;
+$button-colour: $blue;
 
 /// Colours
 $backgroundColor: #fff;
-$bodyColor: $red-50;
+$bodyColor: #000;
 $bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 
 /* Option 1: Narrow the main container */
@@ -67,9 +56,9 @@ body {
 }
 .primary-nav-outer-container {
 	margin-top: 1rem;
-	background: $red-500;
-	border-top: 3px solid $red-500;
-	border-bottom: 3px solid $red-500;
+	background: $blue;
+	border-top: 3px solid $blue;
+	border-bottom: 3px solid $blue;
 }
 nav.primary {
 	display: flex;
@@ -174,3 +163,4 @@ footer, footer a {
 .brand-facebook {
 	background-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2232%22%20height%3D%2232%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22white%22%20%3E%3Cpath%20d%3D%22M18%202a1%201%200%200%201%20.993%20.883l.007%20.117v4a1%201%200%200%201%20-.883%20.993l-.117%20.007h-3v1h3a1%201%200%200%201%20.991%201.131l-.02%20.112l-1%204a1%201%200%200%201%20-.858%20.75l-.113%20.007h-2v6a1%201%200%200%201%20-.883%20.993l-.117%20.007h-4a1%201%200%200%201%20-.993%20-.883l-.007%20-.117v-6h-2a1%201%200%200%201%20-.993%20-.883l-.007%20-.117v-4a1%201%200%200%201%20.883%20-.993l.117%20-.007h2v-1a6%206%200%200%201%205.775%20-5.996l.225%20-.004h3z%22%20%2F%3E%3C%2Fsvg%3E");
 }
+
