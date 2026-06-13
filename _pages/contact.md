@@ -20,6 +20,6 @@ title: Contact
   </label>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
-  <p>*This form uses FormSpree to handle form submissions. Please check their <a href="https://formspree.io/legal/privacy-policy/">Privacy Policy</a> and <a href="https://formspree.io/security/">Security</a> if you have any concerns.</p>
+  <p>*This form uses FormSpree to handle form submissions. Please check their <a href="https://formspree.io/legal/privacy-policy/">Privacy Policy</a> and <a href="https://formspree.io/security/">Security</a> for more information.</p>
 </form>
 
