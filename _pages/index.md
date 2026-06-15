@@ -4,11 +4,14 @@ title: Websites for Individuals and Small Businesses
 url: index
 ---
 
-Do you just need a cheap, professional website?
+**Do many current website options just seem way too complicated?**
+![Confused GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZtOXQ5d2Q0azVlaTc5anFkcWU5MW1sZDlvOHJwcGg3c3U2dXp2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRQBXSCnEFJIuxktnw/giphy.gif)
 
-Do the current options for websites seem too complicated?
+**Are you fed up with spending money on hosting, updates and security fixes?**
+![Money to burn](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJ3dnRvemxmNzJnMnk1cTA0bG44ZW5scmh5Z3NrNWc2ZDluNjU2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f9rDZytkKhih1vBDnW/giphy.gif)
 
-Are you fed up with ongoing spending time and money doing maintenance, updates and security fixes?
+**Do you just need a simple, professional website that works?**
+![Give me it GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWgyZWFhZjNsYnRrcDJpamlnOGN4em4wd2VwdjZ4aXYzZW10eXM3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nh9k1qzeLf99S/giphy.gif)
 
 For many people, the current offers available for websites are overkill.
 
