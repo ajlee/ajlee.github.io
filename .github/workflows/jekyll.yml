@@ -46,6 +46,9 @@ jobs:
         run: npm ci
         # or `npm install` if no package-lock.json
 
+      ############
+      # TODO: remove this debug section
+      ############
       - name: Debug secrets (masked)
         run: |
           if [[ -n "$NEXT_PUBLIC_TINA_CLIENT_ID" ]]; then
@@ -62,6 +65,11 @@ jobs:
           NEXT_PUBLIC_TINA_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
           TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
 
+
+      ############
+      # TODO: fix skip cloud checks
+      ############
+      
       # Build TinaCMS admin
       - name: Build TinaCMS
         env:
