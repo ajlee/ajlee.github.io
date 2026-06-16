@@ -11,7 +11,9 @@ Before that I was a freelance web developer for a number of years.
 
 I worked mostly on Drupal sites, and if you don't know Drupal, it is a great system for building big, powerful websites. Its not so good for cheap, basic websites.
 
-![](/uploads/PSX_20260610_115720.jpg) I have also worked on WordPress, Shopify and Wix sites. They are all fine, but if you want a very basic website, these are overkill.
+![](/uploads/PSX_20260610_115720.jpg) 
+
+I have also worked on WordPress, Shopify and Wix sites. They are all fine, but if you want a very basic website, these are overkill.
 
 I know a lot of people using these systems for personal, voluntary groups and small businesses and find it frustrating that people have to spend so much time and money on these systems.
 
