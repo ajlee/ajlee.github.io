@@ -94,6 +94,7 @@ button, [type=submit], [type=reset], [type=button], [type=file]::file-selector-b
   display: flex;
   flex-direction: column;
   height: 100%;
+  text-align: center;
 }
 .grid > div img {
   margin-top: auto; /* pushes images to bottom if headings differ in length */
@@ -103,8 +104,8 @@ button, [type=submit], [type=reset], [type=button], [type=file]::file-selector-b
 }
 .meme-grid > div img {
 	width: 100%;
-	margin-left: 0;
-	margin-right: 0;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 /**
