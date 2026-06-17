@@ -90,4 +90,4 @@ This service relies on TinaCMS and GitHub to enable you to edit your site and pu
 
 ## Example Sites
 
-This is a new bsiness so check back soon for examples!
+This is a new business so check back soon for examples!
