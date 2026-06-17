@@ -41,7 +41,8 @@ There are three tiers available. Small, Smaller, and Smallest.
 
 * Small Websites (£600)
 * Smaller Websites (£400)
-* Smallest Websites (£250)
+* Smallest Websites (£200)
+* Disconts available for PhD students and for those on univeral credit 
 
 | Tier                                                             | Smallest   | Smaller    | Small      |
 | ---------------------------------------------------------------- | ---------- | ---------- | ---------- |
@@ -89,4 +90,4 @@ This service relies on TinaCMS and GitHub to enable you to edit your site and pu
 
 ## Example Sites
 
-This is a new bsiness so check back soon for examples! 
+This is a new bsiness so check back soon for examples!
