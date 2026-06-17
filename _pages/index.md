@@ -42,7 +42,7 @@ There are three tiers available. Small, Smaller, and Smallest.
 * Small Websites (£600)
 * Smaller Websites (£400)
 * Smallest Websites (£200)
-* Disconts available for PhD students and for those on univeral credit 
+* Discounts available for PhD students and for those on univeral credit 
 
 | Tier                                                             | Smallest   | Smaller    | Small      |
 | ---------------------------------------------------------------- | ---------- | ---------- | ---------- |
