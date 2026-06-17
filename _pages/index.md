@@ -30,9 +30,7 @@ Many popular website services, like WordPress or Wix, can be confusing... so man
 These services are useful for different people:
 
 * If you are a **small business owner**, you might need a simple website just to provide some basic information about your services, and to provide contact details and prices.
-
 * If you are **an academic or PhD student**, you might want a simple website to provide an overview of your academic profile with details about your publications.
-
 * You might run a small **voluntary group or small campaign**. Maybe you just need a basic website for directing people to.
 
 **If this sounds like you, get in touch!**
@@ -88,3 +86,7 @@ These websites rely on specific technologies to keep costs down.
 * GitHub Pages for hosting (free for basic, static sites)
 
 This service relies on TinaCMS and GitHub to enable you to edit your site and publish it. There is a chance that changes to these services will require maintainance updates, but given the simple nature of these websites, these will not require complicated, expensive fixes, unlike other website services.
+
+## Example Sites
+
+This is a new bsiness so check back soon for examples! 
